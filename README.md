@@ -9,6 +9,11 @@ Please provide your city and district information separated by a comma (,).
 - Sends notifications 30 minutes before prayer times.
 - Simple and user-friendly design.
 
+## API
+
+This bot uses the following API to fetch prayer times:
+- [Ezan Vakti API](https://ezanvakti.herokuapp.com)
+
 ---
 
 # Namaz Alarm Botu
@@ -21,6 +26,11 @@ Bulunduğunuz il ve ilçe bilgilerini aralarında virgül (,) kullarak yazınız
 - Günlük namaz vakitlerini takip eder.
 - Namaz vakitlerinden 30 dakika önce bildirim gönderir.
 - Basit ve kullanıcı dostu bir tasarıma sahiptir.
+
+- 
+## API
+Bu bot, namaz vakitlerini almak için aşağıdaki API'yi kullanmaktadır:
+- [Ezan Vakti API](https://ezanvakti.herokuapp.com)
 
 ---
 
